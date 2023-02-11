@@ -7,4 +7,4 @@ Riru版Menuimgui，在游戏运行时dump数据，用于绕过保护，加密以
 
 ## this is for educational perpose only 
 ## for safty our repo i moved the source from here
-##you can download the sources from here https://apkadmin.com/wwzgvc4v98re/rirubased-imgu-bgmi-alpha.zip.html
+##you can download the sources from here [Download](https://apkadmin.com/wwzgvc4v98re/rirubased-imgu-bgmi-alpha.zip.html)
